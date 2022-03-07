@@ -2,7 +2,7 @@
 
 <div align="center">
   
-# MuMannidev
+# MuManidev
   
 <h3 align="center">🛠 My Tech Stack 🛠</h3>
 
