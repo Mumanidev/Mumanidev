@@ -2,7 +2,7 @@
 
 <div align="center">
   
-# BanBanMuManiChicken
+# MuMannidev
   
 <h3 align="center">🛠 My Tech Stack 🛠</h3>
 
@@ -30,11 +30,11 @@ I enjoy programming while having a cup of coffee. ☕️<br>
 ## GitHub Stats
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MuMani&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=MuManidev&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuMani&hide_border=true&layout=compact" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuManidev&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
 </td></tr></table>  
 
